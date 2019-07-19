@@ -38,3 +38,5 @@ gem --version
 yum install sqlite-devel
 gem install rails
 gem install sqlite3
+
+exit
